@@ -8,7 +8,8 @@ const dares = [
     { text: "Get someone to sign their name on you, or something you have", points: 3 },
     { text: "Get someone to teach you their signature dance move", points: 3 },
     { text: "Start a slow clap", points: 2 },
-    { text: "Compliment someone", points: 1 }
+    { text: "Compliment someone", points: 1 },
+    { text: "BONUS: Bring at least 2 new people with you to meet the rest of the group at the end", points: 8 }
 ];
 
 // Initialize the game state
