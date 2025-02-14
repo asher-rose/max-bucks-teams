@@ -20,8 +20,14 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 30px;
-    color: #00ff88;
     font-size: 2.5rem;
+    background: linear-gradient(45deg, #4CAF50, #8BC34A);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-weight: bold;
+    letter-spacing: 1px;
 }
 
 .teams-container {

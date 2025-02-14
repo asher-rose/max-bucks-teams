@@ -1,13 +1,14 @@
 // Sample dares with points
 const dares = [
     { text: "Get 3 pieces of marriage advice for Max, from 3 different people", points: 5 },
+    { text: "Swap an item of clothing with someone", points: 5 },
+    { text: "Find a girl that looks the most like Jenny, and get a photo with them", points: 5 },
     { text: "Convince a stranger that you know them", points: 4 },
+    { text: "Find another Max and get a photo with them", points: 4 },
     { text: "Get someone to sign their name on you, or something you have", points: 3 },
-    { text: "Find another Max", points: 4 },
-    { text: "Start a slow clap", points: 2 },
-    { text: "Compliment someone", points: 1 },
     { text: "Get someone to teach you their signature dance move", points: 3 },
-    { text: "Swap an item of clothing with someone", points: 5 }
+    { text: "Start a slow clap", points: 2 },
+    { text: "Compliment someone", points: 1 }
 ];
 
 // Initialize the game state
